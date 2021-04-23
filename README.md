@@ -1,6 +1,7 @@
 # Data Engineer Internship (MacPaw Summer Internship 2021)
 
 https://github.com/MacPaw/msi2021-data-engineering/blob/main/README.md
+
 https://macpaw.com/careers/data-engineering-intern
 
 Write an application that will extract files from the public AWS S3 bucket, transform them, and load results to the database. The bucket contains JSON files, representing data. Parse JSON and write corresponding content to the database. A list of all possible files in the bucket is available in `files_list.data` file.
