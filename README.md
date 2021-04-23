@@ -1,4 +1,4 @@
-# Data Engineer Internship (MacPaw Summer Internship 2021)
+# Data Engineer Internship Test Solution (MacPaw Summer Internship 2021)
 
 https://github.com/MacPaw/msi2021-data-engineering/blob/main/README.md
 
